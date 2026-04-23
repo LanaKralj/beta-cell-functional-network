@@ -1,1 +1,1 @@
-# beta-cell-functional-network
+# Beta-cell-functional-network
